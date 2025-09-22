@@ -1,4 +1,5 @@
-Smart Glasses for the Visually Impaired 👓
+Smart Glasses for the Visually Impaired
+
 Overview
 This project describes the creation of smart glasses designed to assist the visually impaired by providing real-time feedback on their surroundings. Unlike simpler systems that only use distance sensors, this advanced version leverages the ESP32-CAM module to perform visual object detection. This allows the glasses to not only detect obstacles but also identify and describe them, offering a more comprehensive and intuitive aid. The system is low-cost, open-source, and aims to enhance mobility and independence for people with low vision.
 
